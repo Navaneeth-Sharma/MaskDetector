@@ -3,15 +3,15 @@ This Project is about whether a Person is Wearing Mask or not
 
 I have used Open-cv harcascade for the face detection detection. The Logic is 
 
-while(true)<br>
+while(true)
 {
- > if (person)<br>
+ > if (person)
  {
    >> if mouth is visible<br>
       {
       speak("Wear the Mask")<br>
       }
-      else
+    >>  else
      {
       speak("Move Forward")<br>
       }
