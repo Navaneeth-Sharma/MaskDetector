@@ -7,13 +7,13 @@ while(true)
 {
  > if (person)
  {
-   if mouth is visible<br>
+   >> if mouth is visible
       {
-      speak("Wear the Mask")<br>
+      speak("Wear the Mask")
       }
-     else
+     >>> else
      {
-      speak("Move Forward")<br>
+      speak("Move Forward")
       }
      }
   else
