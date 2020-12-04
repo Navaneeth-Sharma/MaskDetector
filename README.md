@@ -5,9 +5,9 @@ I have used Open-cv harcascade for the face detection detection. The Logic is
 
 while(true)<br>
 {
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp if (person)<br>
-    {
-      if mouth is visible<br>
+ > if (person)<br>
+  >>  {
+  >>>    if mouth is visible<br>
       {
       speak("Wear the Mask")<br>
       }
